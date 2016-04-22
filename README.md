@@ -4,4 +4,4 @@
 2. cd workflow1
 3. bower i
 4. npm i
-5. gulpgit push
+5. gulp
